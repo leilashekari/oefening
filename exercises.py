@@ -1,5 +1,4 @@
 
-print('havij inja havij unja havij hameja')
 
 
 # Exercise 1:
