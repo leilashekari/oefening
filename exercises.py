@@ -1,4 +1,7 @@
 
+print('havij inja havij unja havij hameja')
+
+
 # Exercise 1:
 letter = input('Enter The Letter :').lower()
 vowels = ['a', 'e', 'i', 'o', 'u']
